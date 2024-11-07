@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       }
       
       .ace-tomorrow_night-theme {
-        background: url('https://cdn.discordapp.com/attachments/1285053395958239324/1302323550358605834/Rapper-Juice-WRLD-performs-Rolling-Loud-Festival-Los-Angeles-2018.png?ex=672e4a52&is=672cf8d2&hm=871dd712f13e1dbaec88ca8814ca2413e367f89d8de63af489ffb53b10a353ba&') no-repeat center center fixed;
+        background: url('https://i.ibb.co/SRD8zws/rapper.png"') no-repeat center center fixed;
         background-size: cover;
         color: #E2DE16;
         text-shadow: #000000;
