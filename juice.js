@@ -25,7 +25,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       }
       
       .ace-tomorrow_night-theme .ace_selection {
-        background-color: #14791B;
+        background-color: #808080;
       }
       
       .ace-tomorrow_night-theme.ace_multiselect .ace_selection.ace_start {
@@ -59,7 +59,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       
       .ace-tomorrow_night-theme .ace_selected-word {
         border: none;
-        background-color: #14791B;
+        background-color: #808080;
       }
       
       .ace-tomorrow_night-theme .ace_invisible {
@@ -70,11 +70,11 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       .ace-tomorrow_night-theme .ace_meta,
       .ace-tomorrow_night-theme .ace_storage,
       .ace-tomorrow_night-theme .ace_storage.ace_type {
-        color: #A3A3A3;
+        color: #808080;
       }
       
       .ace-tomorrow_night-theme .ace_keyword.ace_operator {
-        color: #941D1D;
+        color: #808080;
       }
       
       .ace-tomorrow_night-theme .ace_constant.ace_character,
@@ -83,19 +83,19 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       .ace-tomorrow_night-theme .ace_keyword.ace_other.ace_unit,
       .ace-tomorrow_night-theme .ace_support.ace_constant,
       .ace-tomorrow_night-theme .ace_variable.ace_parameter {
-        color: #E2DE16;
+        color: #808080;
       }
       
       .ace-tomorrow_night-theme .ace_constant.ace_other {
-        color: #E2DE16;
+        color: #808080;
       }
       
       .ace-tomorrow_night-theme .ace_invalid {
-        color: #E2DE16;
+        color: #808080;
         background-color: transparent;
       }
       .ace-tomorrow_night-theme .ace_invalid.ace_deprecated {
-        color: #E2DE16;
+        color: #808080;
         background-color: transparent;
       }
       
