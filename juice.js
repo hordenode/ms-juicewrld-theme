@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       }
       
       .ace-tomorrow_night-theme {
-        background: url('https://i.ibb.co/SRD8zws/rapper.png') no-repeat center center fixed;
+        background: url('https://i.ibb.co/z2cdHjV/5684612437744342463-2.jpg') no-repeat center center fixed;
         background-size: cover;
         color: #E2DE16;
         text-shadow: #000000;
